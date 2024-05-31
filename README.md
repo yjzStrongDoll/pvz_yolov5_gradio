@@ -1,5 +1,3 @@
-![手把手带你实战YOLOv5](./YOLOv5.png)
-
 # 简介
 
 手把手带你实战YOLOv5课程的代码仓库
@@ -52,7 +50,4 @@
 - [Torchhub模型预测使用进阶](https://www.bilibili.com/video/BV1XM4y1U7KY)
 
 - [基于Flask的YOLOv5项目部署](https://www.bilibili.com/video/BV1Mk4y1i7v1)
-
-# 请作者喝杯奶茶
-
-![](./wx.jpg)
+# pvz_yolov5_gradio
